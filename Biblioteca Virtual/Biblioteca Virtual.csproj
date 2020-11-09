@@ -5,5 +5,10 @@
     <RootNamespace>Biblioteca_Virtual</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Azure\" />
+  </ItemGroup>
+
 
 </Project>
